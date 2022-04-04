@@ -31,7 +31,7 @@ body {
   user-select: none;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
-  background-image: url(../images/light.jpeg);
+  background-image: url(../images/light.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -307,7 +307,7 @@ select#select-instrument option {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-image: url(../images/dark.jpeg);
+    background-image: url(../images/dark.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
@@ -374,7 +374,7 @@ select#select-instrument option {
 @media only screen and (max-width: 769px) {
   body {
     font-size: 13px;
-    background-image: url(../images/mobile.jpeg);
+    background-image: url(../images/mobile.jpg);
   }
 
   a#github {
