@@ -31,7 +31,7 @@ body {
   user-select: none;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
-  background-image: './images/bg.jpeg';
+  background-image: url("./images/bg.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -307,7 +307,7 @@ select#select-instrument option {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-image: './images/bg.jpeg';
+    background-image: url("./images/bg.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
   }
