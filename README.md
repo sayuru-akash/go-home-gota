@@ -1,7 +1,7 @@
 # Bongo Cat
 <p align="center">
   <a href="https://gohomegota.xyz">
-    <img src="https://bongo.cat/meta/thumbnail.png">
+    <img src="https://gohomegota.xyz/meta/thumbnail.png">
   </a>  
 </p>
 Hit the kings like Bongo Uh la la laa! https://gohomegota.xyz
