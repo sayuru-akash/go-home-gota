@@ -31,7 +31,7 @@ body {
   user-select: none;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
-  background-image: 'https://www.indiablooms.com/world_pic/2020/2c49f2b44d61390cc3fd4701d6766730.jpg';
+  background-image: './images/bg.jpeg';
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -307,7 +307,7 @@ select#select-instrument option {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-image: 'https://www.indiablooms.com/world_pic/2020/2c49f2b44d61390cc3fd4701d6766730.jpg';
+    background-image: './images/bg.jpeg';
     background-size: cover;
     background-repeat: no-repeat;
   }
