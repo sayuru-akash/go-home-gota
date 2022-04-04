@@ -4,7 +4,7 @@
     <img src="https://gohomegota.xyz/meta/thumbnail.png">
   </a>  
 </p>
-Hit the kings like Bongo Uh la la laa! https://gohomegota.xyz
+Hit the kingPakshas like Bongo Uh la la laa! https://gohomegota.xyz
 
 ## About the meme
 Bongo Cat is a meme created by [DitzyFlama](https://twitter.com/DitzyFlama) ([tweet](https://twitter.com/DitzyFlama/status/993487015499853824)) using [StrayRogue](https://twitter.com/StrayRogue)'s [drawing of a cat](https://twitter.com/StrayRogue/status/992994454058381312).
